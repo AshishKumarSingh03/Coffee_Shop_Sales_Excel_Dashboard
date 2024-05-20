@@ -33,8 +33,7 @@ Coffee Shop.
 
 
   ##                                                        Thank You! 
-  ![image](https://github.com/AshishKumarSingh03/Coffee_Shop_Sales_Excel_Dashboard/assets/116654089/a6a509f0-3f9f-4972-b657-fed83f607064)
-
+ 
 
 
 
