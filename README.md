@@ -28,7 +28,8 @@ Coffee Shop.
 
 
    ## Dashboard Analysis Report
-  ![Dashboard_Image](https://github.com/AshishKumarSingh03/Coffee_Shop_Sales_Excel_Dashboard/assets/116654089/353608f8-c7e7-4984-b880-fc64d9bb743c)
+  ![Dashboard_Image](![image](https://github.com/AshishKumarSingh03/Coffee_Shop_Sales_Excel_Dashboard/assets/116654089/f48ba282-a39c-462c-9a28-a0aebf86d936)
+)
   
 
 
